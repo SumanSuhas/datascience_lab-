@@ -1,2 +1,2 @@
-# datascience_lab-
+# datascience_lab
 lab manual
